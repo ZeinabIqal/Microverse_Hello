@@ -2,8 +2,6 @@
 
 
 # Built With
-
-# Set up a "Hello Microverse" project
 - HTML
 - CSS
 - HTML/CSS Linters
