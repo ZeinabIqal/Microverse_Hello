@@ -1,6 +1,4 @@
 # Microverse_Hello
-# Microverse_Hello
-
 
 # Built With
 - HTML
